@@ -23,14 +23,14 @@ For "high risk" prediction, this model shows precision of 1%, recall rate of 63%
 
 ![ClusterCentroid](https://github.com/jhuang2801/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroid.png)
 
-ClusterCentroid result shows accuracy score of 66%.
+ClusterCentroid result shows accuracy score of 54%.
 For "high risk" prediction, this model shows precision of 1%, recall rate of 69%, and F1 score of 1%.
 
 ### 4. Resample with SMOTEENN 
 
 ![SMOTEENN](https://github.com/jhuang2801/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png)
 
-SMOTEENN result shows accuracy score of 54%.
+SMOTEENN result shows accuracy score of 64%.
 For "high risk" prediction, this model shows precision of 1%, recall rate of 68%, and F1 score of 2%.
 
 ### 5. Resample with BalancedForestClassifier
